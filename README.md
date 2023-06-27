@@ -44,25 +44,7 @@ Steps to create a Storage Account to Host Data:
  - Check 'Text Cognitive Skills'
  - Check 'Image Cognitive Skills'
 ![image](https://github.com/zakishahin83/CognitiveSearch/assets/137057041/d30c6406-44aa-46f8-817a-83a7ff62b22e)
-8. Click on Customize Target Index; Note the following:
-   In this view, you define how and what data you want to save in your index. An index exists out of json documents that all have the same structure.
-   Notice that for every field you have following options:
-   - Retrievable:
-     Search API will be able to retrieve this field
-   - Filterable:
-     Search API will be able to filter on this field
-   - Sortable:
-     Search API will can sort on this field
-   - Facetable:
-     Search API can generate facets on this field
-   - Searchable:
-     Search API can search through this field
-   - Analyzer:
-     What kind of analyser can be used to search through your field. If you want to understand the differences between them.
-   - Sugester:
-     Enable this if you want to give your search input box an autosuggest functionality. This will not improve your search results, but only the usability of the frontend that you build. 
-9. Check the following boxes as the screenshot below and schoose the language for the analyzer, as per the screenshot below:
-![image](https://github.com/zakishahin83/CognitiveSearch/assets/137057041/5ebfdfd8-84c9-49cd-9ac6-a87957dbf763)
+
 10. Click on Validate
 ![image](https://github.com/zakishahin83/CognitiveSearch/assets/137057041/c6a348f0-4fc0-47a4-a51d-631b17948c4b)
 
