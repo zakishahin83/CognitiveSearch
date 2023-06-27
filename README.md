@@ -47,7 +47,11 @@ Steps to create a Storage Account to Host Data:
 12. It will take around 5 mins to proceed the the content.
 13. Make sure the Limit responses to your data content is checked
 14. Click "Deploy To" (top right) to Deploy the solution into a web app in Azure 
-
+![image](https://github.com/zakishahin83/CognitiveSearch/assets/137057041/da0553a4-0a8e-44c2-a858-bd5288d4f749)
+15. Fill the required parameters for the web app and click create
+![image](https://github.com/zakishahin83/CognitiveSearch/assets/137057041/6ff72e0e-fd29-498e-81a0-f217e54eba09)
+16. Note: It will take some time to get the authentication deployed.
+17. Test the module based on the sample data.
 
 
 
